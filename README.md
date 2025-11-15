@@ -18,5 +18,11 @@ Whenever the user opens a new tab, the extension:
 
 This is done using Chrome's event-driven API for maximum performance.
 
+## 📦 Install (Developer Mode)
+1. Go to `chrome://extensions`
+2. Enable **Developer mode**
+3. Click **Load unpacked**
+4. Select the folder
+
 ## 📝 License
 This project is licensed under the MIT License.
