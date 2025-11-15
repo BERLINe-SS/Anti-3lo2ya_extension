@@ -1,0 +1,25 @@
+{
+    "name": "Anti-3lo2ya Extension",
+    "version": "1.0",
+    "description": "Automatically opens LinkedIn when creating new tabs",
+    "permissions": ["tabs"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icon.png",
+            "32": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        },
+        "default_title": "Do Your Work"
+    },
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+    "manifest_version": 3
+}
